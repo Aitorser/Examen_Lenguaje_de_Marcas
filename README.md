@@ -20,15 +20,6 @@ JavaScript.
 - HTML5
 - CSS3
 
-## Cómo verlo
-
-Al ser una web estática, basta con abrir el archivo en el navegador:
-
-```bash
-git clone https://github.com/Aitorser/repo_Aitor_SFighter.git
-cd repo_Aitor_SFighter
-# Abre index.html en tu navegador
-```
 
 ---
 
